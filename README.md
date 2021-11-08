@@ -25,7 +25,7 @@ Project created by <a href="https://github.com/itxammy">Baala</a> to make it pub
 <p align="center">
 <a href="https://www.facebook.com/painduno1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="kyrie.baran" height="30" width="40" /></a>
 </p>
-<a href="https://wa.me/923207371452" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg" alt="kyrie.baran" height="30" width="40" /></a>
+<a href="https://wa.me/447563219921" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg" alt="kyrie.baran" height="30" width="40" /></a>
 </p>
 <h4 align="center">Support Me on Youtube 👇:</h4>
 <p align="center">
@@ -47,7 +47,7 @@ Project created by <a href="https://github.com/itxammy">Baala</a> to make it pub
 Click WA logo to join WhatsApp group 👇
     <br>
 <br>
-  <a href="https://chat.whatsapp.com/IDWUTLr72QZKXpJiznf4pb" target="blank"><img align="center" src="https://www.linkpicture.com/q/image-removebg-preview-9_2.png" alt="kyrie.baran" height="200" width="300" /></a>
+  <a href="https://chat.whatsapp.com/KWhsa8cEcE8G16XZTv0tQs" target="blank"><img align="center" src="https://www.linkpicture.com/q/image-removebg-preview-9_2.png" alt="kyrie.baran" height="200" width="300" /></a>
 </p>
 
     
@@ -58,7 +58,7 @@ Click WA logo to join WhatsApp group 👇
   
 [![Run on Repl.it](https://www.linkpicture.com/q/Untitled-3_10.jpg)](https://replit.com/@itxammy/pikachu-QR?v=1)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/itxammy/pikachu.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/itxammy/baalabot.git)
      </div>
 <br>
 <br >
@@ -79,8 +79,8 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/itxammy/pikachu
-$ cd pikachu
+$ git clone https://github.com/itxammy/baalabot
+$ cd baalabot
 $ chmod +x *
 $ npm install @adiwajshing/baileys
 $ npm install chalk
@@ -89,8 +89,8 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/itxammy/pikachu
-$ cd pikachu
+$ git clone https://github.com/itxammy/baalabot
+$ cd baalabot
 $ chmod +x *
 $ npm i
 $ node qr.js
